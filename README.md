@@ -6,3 +6,4 @@ Implemented Re-Weighting and Uniform Sampling Method from: https://link.springer
 Fairness Modeling Notebook:
 
 Fairness Post-Process Notebook:
+Promoting Fairness through Hyperparameter Optimization https://arxiv.org/pdf/2103.12715.pdf
