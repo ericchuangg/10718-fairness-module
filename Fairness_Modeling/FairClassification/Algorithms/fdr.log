@@ -1,0 +1,1135 @@
+Tau :  0.1
+----- [0.0, -1] [0.09999999999999999, -1]
+[1.1318262121468026, 1.102321152735822, 0.8724240760208377, 0.9017040863348491]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861213177399374 0.15049945989077373 
+
+Probability is 0.
+
+Probability is 0.
+
+Accuracy DIFF:  0.03359627978935076
+TPR DIFF :  0.04652587779297768
+FDR tau :  0.7546191562630375
+Accuracy :  7027 17254 0.5927321200880955
+SR tau :  0.9312779474529566
+FPR tau :  0.9922000344913863
+FNR tau :  0.8776897027091826
+TPR tau :  0.9301553481964463
+TNR tau :  0.9932656146951571
+AR tau :  0.9437384311192414
+FOR tau :  0.7717020611098333
+PPR tau :  0.7345695883063913
+NPR tau :  0.8927913631205906
+
+
+Tau :  0.2
+----- [0.0, -1] [0.049999999999999996, -1]
+[2.131210788235169, 2.1017776739080465, 1.8708735403541203, 1.90019750599276]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861213177399374 0.14938689604685212 
+
+----- [0.1, -1] [0.5499999999999999, -1]
+[1.0245239687996262, 1.0267681960094994, 0.9372990615140546, 0.9501327922191113]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9542066474898692 0.14803794740760656 
+
+Probability is 0.
+
+Probability is 0.
+
+Accuracy DIFF:  0.03383742592779726
+TPR DIFF :  0.04710727314181484
+FDR tau :  0.7545965485014585
+Accuracy :  7031 17254 0.5925002897878753
+SR tau :  0.930842463457882
+FPR tau :  0.9926344845303707
+FNR tau :  0.8761612922560538
+TPR tau :  0.9293442251546357
+TNR tau :  0.9936213777970649
+AR tau :  0.9433155985463479
+FOR tau :  0.7724783132083045
+PPR tau :  0.7342723821407882
+NPR tau :  0.8931301687161923
+
+
+Tau :  0.3
+----- [0.0, -1] [0.03333333333333333, -1]
+[4.127330476212974, 4.0983124443549555, 3.873888742836291, 3.9028467626747148]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861213177399374 0.14205151748269101 
+
+----- [0.1, -1] [0.3666666666666667, -1]
+[1.1054691201158693, 1.0778194854175605, 0.897215428774153, 0.9246076115751123]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9860163352720096 0.1497167751730275 
+
+----- [0.2, -1] [0.7, -1]
+[0.9779726222213887, 0.987341676737903, 0.9451796560141027, 0.9591186236020296]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.5900224662481366 0.042061891765769556 
+
+Probability is 0.
+
+Probability is 0.
+
+Accuracy DIFF:  0.03243630503107986
+TPR DIFF :  0.043332953336373325
+FDR tau :  0.7583210139276974
+Accuracy :  7052 17254 0.591283180711719
+SR tau :  0.9321795230106992
+FPR tau :  0.996103035161681
+FNR tau :  0.8840919255163441
+TPR tau :  0.9352734001401979
+TNR tau :  0.9965695709033483
+AR tau :  0.9455349159975549
+FOR tau :  0.7657659633043169
+PPR tau :  0.7378970940546145
+NPR tau :  0.8902355626136684
+
+
+Tau :  0.4
+----- [0.0, -1] [0.024999999999999998, -1]
+[5.128277817927525, 5.099174631490236, 4.872667437157513, 4.901723790615137]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861213177399374 0.14305342284755207 
+
+----- [0.1, -1] [0.27499999999999997, -1]
+[1.1223853921862572, 1.0937197454184586, 0.8836669180147507, 0.9120501832230836]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861213177399374 0.1433906574976642 
+
+----- [0.2, -1] [0.5249999999999999, -1]
+[1.095600586868822, 1.0698455914430232, 0.9032666266515047, 0.9294000269323854]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.985848363323325 0.14122292870506525 
+
+----- [0.3, -1] [0.7749999999999999, -1]
+[1.016664805021754, 1.0181596609234203, 0.9261712224251645, 0.9446366185098626]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.534276775778445 0.9267752300056051 
+
+Probability is 0.
+
+Probability is 0.
+
+Accuracy DIFF:  0.033452357649579545
+TPR DIFF :  0.04536593707250336
+FDR tau :  0.7567413986597848
+Accuracy :  7052 17254 0.591283180711719
+SR tau :  0.9317135400173827
+FPR tau :  0.9945252584428399
+FNR tau :  0.8794967296511628
+TPR tau :  0.9321778254978654
+TNR tau :  0.9951873662280318
+AR tau :  0.9438414049673053
+FOR tau :  0.7695132362044482
+PPR tau :  0.7358226239668281
+NPR tau :  0.8917659119943276
+
+
+Tau :  0.5
+----- [0.0, -1] [0.02, -1]
+[6.128783922867676, 6.099628720215385, 5.871985571296912, 5.901102363803074]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861213177399374 0.14372954525880632 
+
+----- [0.1, -1] [0.22, -1]
+[1.128242710946936, 1.098885251197621, 0.8769795020968185, 0.9060580154135033]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861213177399374 0.1307177197802198 
+
+----- [0.2, -1] [0.42, -1]
+[1.114569912632094, 1.0865001700769983, 0.8913483474305947, 0.9191601166554355]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861213177399374 0.14139162800543315 
+
+----- [0.3, -1] [0.62, -1]
+[1.0987108078416283, 1.0713974848781231, 0.9016358910910479, 0.9285904555775889]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9860163352720096 0.14813238747821936 
+
+----- [0.4, -1] [0.8200000000000001, -1]
+[1.0811409147327038, 1.0635615716870248, 0.905151862262921, 0.92991275906685]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9849245176055599 0.2354450543099254 
+
+Probability is 0.
+
+Probability is 0.
+
+Accuracy DIFF:  0.03327793155383385
+TPR DIFF :  0.04522058823529407
+FDR tau :  0.7567166870354417
+Accuracy :  7047 17254 0.5915729685869944
+SR tau :  0.9315913131036885
+FPR tau :  0.9946232616434886
+FNR tau :  0.8798828125
+TPR tau :  0.9323804288070369
+TNR tau :  0.995285679630804
+AR tau :  0.9441592433801095
+FOR tau :  0.7691655010072752
+PPR tau :  0.736079113236253
+NPR tau :  0.891689511221321
+
+
+Tau :  0.6
+----- [0.0, -1] [0.016666666666666666, -1]
+[7.129105635432838, 7.09991560582156, 6.871542675046003, 6.900700158702941]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861213177399374 0.14372954525880632 
+
+----- [0.1, -1] [0.18333333333333335, -1]
+[2.1225099538346273, 2.0938173526804995, 1.8803892375725573, 1.9089446494019477]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861213177399374 0.14205151748269101 
+
+----- [0.2, -1] [0.35, -1]
+[1.1235278312456227, 1.094452544550141, 0.8829008351278069, 0.9116369183732753]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861213177399374 0.1307177197802198 
+
+----- [0.3, -1] [0.5166666666666667, -1]
+[1.1138243724424575, 1.0857226292917788, 0.8928743071498573, 0.920696399911171]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861213177399374 0.14475624966108128 
+
+----- [0.4, -1] [0.6833333333333335, -1]
+[1.1040911650633853, 1.076628605309788, 0.899830804652191, 0.9270185214246669]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861003212463518 0.13880841372196784 
+
+----- [0.5, -1] [0.8500000000000001, -1]
+[1.0981851105510092, 1.0710763662267297, 0.9018536930343798, 0.9285288944912032]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9860163352720096 0.1503604548271151 
+
+Probability is 0.
+
+Probability is 0.
+
+Accuracy DIFF:  0.033144491468432125
+TPR DIFF :  0.04609173126614985
+FDR tau :  0.7566712052023732
+Accuracy :  7049 17254 0.5914570534368842
+SR tau :  0.9304565828202327
+FPR tau :  0.9957763919283406
+FNR tau :  0.8779924760601916
+TPR tau :  0.9310328162002803
+TNR tau :  0.9963028648798616
+AR tau :  0.9443707012173729
+FOR tau :  0.7698701796669588
+PPR tau :  0.7359116054739973
+NPR tau :  0.8918798937135284
+
+
+Tau :  0.7
+----- [0.0, -1] [0.014285714285714287, -1]
+[9.1276976680838, 9.09864614166749, 8.872831695812975, 8.901857087981602]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861213177399374 0.14205151748269101 
+
+----- [0.1, -1] [0.15714285714285717, -1]
+[2.128069230961217, 2.0987320343427265, 1.8744024219811912, 1.9036079035008588]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861213177399374 0.1307177197802198 
+
+----- [0.2, -1] [0.3, -1]
+[2.1168041088472758, 2.088522956255579, 1.8862784203538598, 1.9144215726989546]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861213177399374 0.14205151748269101 
+
+----- [0.3, -1] [0.4428571428571429, -1]
+[1.1205252279955609, 1.091495147141208, 0.886001912398979, 0.9146747690958498]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861843072206942 0.09241071247613528 
+
+----- [0.4, -1] [0.5857142857142857, -1]
+[1.1155297950155119, 1.086817902012661, 0.8927311754361571, 0.9209992831458577]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861843072206942 0.11184272429312968 
+
+----- [0.5, -1] [0.7285714285714286, -1]
+[1.1081925008515638, 1.0802529660013451, 0.8993594692762984, 0.9269672605538448]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861213177399374 0.1307177197802198 
+
+----- [0.6, -1] [0.8714285714285714, -1]
+[1.1032656948012574, 1.075869621974767, 0.9028571661148086, 0.9300847062814466]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861003212463518 0.12750599654152953 
+
+Probability is 0.
+
+Probability is 0.
+
+Accuracy DIFF:  0.03462281446222004
+TPR DIFF :  0.052042483660130645
+FDR tau :  0.7506231251800178
+Accuracy :  7004 17254 0.5940651443143619
+SR tau :  0.92738041199138
+FPR tau :  0.9910937846321043
+FNR tau :  0.8664010067114094
+TPR tau :  0.9214453076828216
+TNR tau :  0.9924795642959066
+AR tau :  0.9421615310789396
+FOR tau :  0.7795151873831597
+PPR tau :  0.7307493202943108
+NPR tau :  0.8960679463786242
+
+
+Tau :  0.8
+----- [0.0, -1] [0.012499999999999999, -1]
+[9.12949566430517, 9.100262057195499, 8.8709970079066, 8.900205694669118]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861213177399374 0.14407009831607198 
+
+----- [0.1, -1] [0.13749999999999998, -1]
+[4.1240790147229305, 4.095222836512291, 3.8773144106934567, 3.90610287354115]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861213177399374 0.14372954525880632 
+
+----- [0.2, -1] [0.26249999999999996, -1]
+[3.1182458459231848, 3.089825222698807, 2.883839104066224, 2.9121648031097176]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861213177399374 0.1433906574976642 
+
+----- [0.3, -1] [0.38749999999999996, -1]
+[2.118099938994222, 2.0894108228311903, 1.88542933890797, 1.913939064510495]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861213177399374 0.1303896103896104 
+
+----- [0.4, -1] [0.5125, -1]
+[2.110239920908986, 2.0823447672883186, 1.8930803141853982, 1.9208433887861935]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861213177399374 0.1457982780096589 
+
+----- [0.5, -1] [0.6375, -1]
+[2.1042470833522606, 2.0768366513047836, 1.898309810817038, 1.9256154956647367]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861213177399374 0.1417207757760944 
+
+----- [0.6, -1] [0.7625, -1]
+[2.098579402363057, 2.0714824614634835, 1.901688606002937, 1.9285423128018253]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9860793247527663 0.13786096275063756 
+
+----- [0.7000000000000001, -1] [0.8875, -1]
+[2.0979772527741676, 2.0712118065633978, 1.9018778590181646, 1.9284874132015917]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9860163352720096 0.14907880442939744 
+
+Probability is 0.
+
+Probability is 0.
+
+Accuracy DIFF:  0.03365251777768197
+TPR DIFF :  0.04667217662258705
+FDR tau :  0.7558203905208568
+Accuracy :  7049 17254 0.5914570534368842
+SR tau :  0.93088952842444
+FPR tau :  0.9941941201191323
+FNR tau :  0.8768820168404171
+TPR tau :  0.9300882701581975
+TNR tau :  0.994924852618617
+AR tau :  0.9435243604913338
+FOR tau :  0.7714181204660991
+PPR tau :  0.7348230962080563
+NPR tau :  0.8924517911540369
+
+
+Tau :  0.9
+----- [0.0, -1] [0.011111111111111112, -1]
+[9.130745414464068, 9.101366317433767, 8.869710918158804, 8.89906632159757]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861003212463518 0.14792322936539629 
+
+----- [0.1, -1] [0.12222222222222222, -1]
+[7.123260745356184, 7.094488874628878, 6.877537596095961, 6.906271151682814]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861213177399374 0.142717829241966 
+
+----- [0.2, -1] [0.2333333333333333, -1]
+[5.120423036375289, 5.091745963374464, 4.880818702529238, 4.909435676235293]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861213177399374 0.14650164714494876 
+
+----- [0.3, -1] [0.34444444444444444, -1]
+[4.117359750999349, 4.088773474215784, 3.884360338210146, 3.9128614343937542]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861213177399374 0.15012670345759657 
+
+----- [0.4, -1] [0.4555555555555556, -1]
+[4.1103350593877295, 4.082423168203666, 3.8913201010516194, 3.9191652826507286]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861213177399374 0.14475624966108128 
+
+----- [0.5, -1] [0.5666666666666667, -1]
+[4.10460132293747, 4.077177489920616, 3.8967123154344065, 3.924087928158986]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861213177399374 0.14205151748269101 
+
+----- [0.6, -1] [0.6777777777777777, -1]
+[4.099359103888545, 4.07220915888457, 3.9010372203161543, 3.9280810971672815]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9860793247527663 0.13848707837233074 
+
+----- [0.7000000000000001, -1] [0.7888888888888889, -1]
+[4.098189461620829, 4.071312016562982, 3.9018304830705666, 3.928591207674555]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9860583282591807 0.13276145275953585 
+
+----- [0.8, -1] [0.9, -1]
+[4.097087344792149, 4.071000178143975, 3.901998516924732, 3.928483962002805]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9859113528040817 0.1438449341852196 
+
+Probability is 0.
+
+Probability is 0.
+
+Accuracy DIFF:  0.03338563760687874
+TPR DIFF :  0.04551128590971276
+FDR tau :  0.7568707523548349
+Accuracy :  7053 17254 0.5912252231366639
+SR tau :  0.9313802694057156
+FPR tau :  0.995051184015787
+FNR tau :  0.8791106468023256
+TPR tau :  0.9319753102196776
+TNR tau :  0.9956476749080633
+AR tau :  0.9439471338129385
+FOR tau :  0.76950146627566
+PPR tau :  0.735926004889864
+NPR tau :  0.8917587293815221
+
+
+Tau :  1.0
+----- [0.0, -1] [0.01, -1]
+[9.131715877442547, 9.102219673322477, 8.868707725517561, 8.898181464110909]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861213177399374 0.14975585370694208 
+
+----- [0.1, -1] [0.11, -1]
+[9.12947620100057, 9.099958583292493, 8.870977971172465, 8.900470557699645]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861633107271086 0.11126243994509265 
+
+----- [0.2, -1] [0.21, -1]
+[9.125223026003678, 9.095914809302187, 8.875236364809995, 8.904519026844806]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861843072206942 0.07068312961469256 
+
+----- [0.3, -1] [0.31, -1]
+[9.120667527927857, 9.09160629903317, 8.87979275079462, 8.908828230112302]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9861843072206942 0.07266807125071825 
+
+----- [0.4, -1] [0.41000000000000003, -1]
+[9.11607995753597, 9.0872713876878, 8.884380868822621, 8.913163479585364]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9862263002078653 0.07477809191925834 
+
+----- [0.5, -1] [0.51, -1]
+[9.111478171773072, 9.082926790771511, 8.888983202859706, 8.917508337720605]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9862263002078653 0.07543389416697628 
+
+----- [0.6, -1] [0.61, -1]
+[9.106862500582777, 9.07857533013535, 8.893599612713778, 8.921860080271577]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9862263002078653 0.076553638065985 
+
+----- [0.7000000000000001, -1] [0.71, -1]
+[9.102221887445006, 9.074214539024693, 8.898241508786452, 8.926221292683863]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9862263002078653 0.07818006607929516 
+
+----- [0.8, -1] [0.81, -1]
+[9.097506864163222, 9.06982923532357, 8.902959599957173, 8.930607525741053]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9862263002078653 0.07963186396924718 
+
+----- [0.9, -1] [0.91, -1]
+[9.092407427505897, 9.065322011228627, 8.908070829968073, 8.935118213162738]
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+Probability is 0.
+
+
+ 0.9862263002078653 0.05362521883143423 
+
+Probability is 0.
+
+Probability is 0.
+
+Accuracy DIFF:  0.03222660505574215
+TPR DIFF :  0.05015009879920962
+FDR tau :  0.7507507794941347
+Accuracy :  6979 17254 0.5955140836907384
+SR tau :  0.9270561598075244
+FPR tau :  0.9916090437415945
+FNR tau :  0.8725421077030054
+TPR tau :  0.9236315449892514
+TNR tau :  0.9931164953625936
+AR tau :  0.9462662858409764
+FOR tau :  0.775386556060148
+PPR tau :  0.7327393062144346
+NPR tau :  0.8939252155081092
+
+
